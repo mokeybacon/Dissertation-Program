@@ -1,2 +1,2 @@
-# Dissertation-Program
-This contains the source code for the program Michael Baker created for his Undergraduate Dissertation
+This program runs in the python environment
+Before running the programme, you must use pip to install the requests module
